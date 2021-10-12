@@ -1,0 +1,6 @@
+﻿  SpeCourse.cpp
+C:\Users\vadya\source\repos\SpeCourse\SpeCourse\Func.cpp(15,39): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\vadya\source\repos\SpeCourse\SpeCourse\SpeCourse.cpp(23,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\vadya\source\repos\SpeCourse\SpeCourse\SpeCourse.cpp(33,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\vadya\source\repos\SpeCourse\SpeCourse\SpeCourse.cpp(34,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  SpeCourse.vcxproj -> C:\Users\vadya\source\repos\SpeCourse\x64\Debug\SpeCourse.exe
